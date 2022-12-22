@@ -14,6 +14,7 @@ MY STATS (They are pathetic)
 [![](https://raw.githubusercontent.com/alicankocman/alicankocman/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/alicankocman/alicankocman/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+<h3>About me</h3>
 
 - 👋 Hi, I’m @alicankocman
 - 👀 I’m interested in Full Stack.
