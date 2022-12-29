@@ -5,7 +5,7 @@
 
 
 
-MY STATS (They are pathetic)
+MY STATS
 
 
 
