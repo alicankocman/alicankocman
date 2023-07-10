@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # <h1>Hi Everyvone</h1>
-## ****I am Alican. I am a student of information systems and technologies department.I work in the Full Stack Web space.You can check my work on github library.****
+## ****I am Alican. I am a student of information systems and technologies department.I work in the Full Stack Web space.You can check my work on GitHub library.****
 
 |   | Language   | Level  | Experience  | Project  | Educational Institutions Where I Study  |   
 | --|:-------:| -----:|-------:| :-----:| :-----:|
