@@ -22,8 +22,8 @@
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.linkedin.com/in/alican-ko%C3%A7man-3a57a41b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
+<a href="https://medium.com/@kocmanalican" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCURPKoN_nv8-dKJvCSOHqZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
