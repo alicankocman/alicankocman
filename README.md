@@ -55,8 +55,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
-
 
 
 <picture>
@@ -73,9 +71,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/alicankocman/alicankocman/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=alicankocman&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="alicankocman" />
+    <img heigth="160" width="182" src="https://github.com/alicankocman/alicankocman/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -86,8 +84,8 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/alicankocman/alicankocman/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="alicankocman" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -115,7 +113,7 @@
 
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alicankocman&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <br />
