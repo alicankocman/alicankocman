@@ -1,4 +1,4 @@
-(![Github Banner](https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662)
+![Github Banner](https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
