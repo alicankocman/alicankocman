@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
+ <a href="https://github.com/alicankocman">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
@@ -11,13 +11,12 @@
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Angular**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **React**
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+- 📫 How to reach me **kocmanalican@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
