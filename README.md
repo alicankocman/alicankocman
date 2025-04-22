@@ -1,10 +1,12 @@
-v<div align="center">
+<div align="center">
   <img src="https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662" alt="Github Banner" width="100%"/>
   <img src="https://komarev.com/ghpvc/?username=alicankocman&color=blue" alt="Profile Views"/>
   
-  <a href="https://github.com/alicankocman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Alican+KOÇMAN+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
-  </a>
+  <h1 align="center">
+    <a href="https://github.com/alicankocman">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=4000&pause=1000&color=4F8BF7&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Alican+KO%C3%87MAN;A+passionate+Web3+developer+from+T%C3%BCrkiye;Specializing+in+React+and+Next.js" alt="Typing SVG" />
+    </a>
+  </h1>
 </div>
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
