@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662" alt="Github Banner" width="100%"/>
+<!--   <img src="https://github.com/alicankocman/alicankocman/assets/88544926/0e0d1fea-3d86-4b9a-8548-4c6e7dd84662" alt="Github Banner" width="100%"/> -->
+  ![banner](https://github.com/user-attachments/assets/0fb0c33f-47e6-4bf0-b32d-58cb657b99b5)
   <img src="https://komarev.com/ghpvc/?username=alicankocman&color=blue" alt="Profile Views"/>
-  
+
+
   <h1 align="center">
     <a href="https://github.com/alicankocman">
       <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=4000&pause=1000&color=4F8BF7&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Alican+KO%C3%87MAN;A+passionate+Web3+developer+from+T%C3%BCrkiye;Specializing+in+React+and+Next.js" alt="Typing SVG" />
