@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/alicankocman/alicankocman/master/assets/github-banner.png" alt="Github Banner" width="80%" />
+<img src="https://raw.githubusercontent.com/alicankocman/alicankocman/master/assets/github-banner.png" alt="Github Banner" width="90%" />
   <img src="https://komarev.com/ghpvc/?username=alicankocman&color=blue" alt="Profile Views"/>
 
 
